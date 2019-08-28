@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: We Make Reality
 featuredImage: 'https://ucarecdn.com/b1fb3da0-35d5-4590-b3ec-3090b451cf6c/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
